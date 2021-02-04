@@ -15,4 +15,4 @@ During the Game
 ![there should be a picture of the UI during the game](images/SpielMitte.jpg)
 
 Lost game
-![there should be a picture of the UI if you lost the game](images/Spiel Ende.jpg)
+![there should be a picture of the UI if you lost the game](images/SpielEnde.JPG)
