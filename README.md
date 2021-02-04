@@ -5,7 +5,7 @@ Screenshots:
 
 Start
 
-![there should be a picture of the Start UI](screenshots/Startseite.JPG)
+![there should be a picture of the Start UI](images/Startseite.JPG)
 
 General
 
